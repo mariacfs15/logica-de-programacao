@@ -1,0 +1,2 @@
+# logica-de-programacao
+A Lógica de programação é a organização coesa de uma sequência de instruções voltadas à resolução de um problema, ou à criação de um software ou aplicação. Ela é o conhecimento básico para o desenvolvimento web, é a partir dela que vem os aprendizados sobre as diversas linguagens de programação.  Esse repositório contém alguns exercícios desenvolvidos no programa Portugol cuja única função é desenvolver conhecimentos de lógica de programação. 
